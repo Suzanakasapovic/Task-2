@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="type_of_event" label="Type of event" language="en" table="x_845656_event_mng_event_table">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>type_of_event</element>
+            <help/>
+            <hint/>
+            <label>Type of event</label>
+            <language>en</language>
+            <name>x_845656_event_mng_event_table</name>
+            <plural>Type of events</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-07-06 10:16:46</sys_created_on>
+            <sys_id>2fd88cd12f60511086b1f3ecf699b6c2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Type of event</sys_name>
+            <sys_package display_value="Event managing" source="x_845656_event_mng">df584cdd2f20511086b1f3ecf699b69e</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Event managing">df584cdd2f20511086b1f3ecf699b69e</sys_scope>
+            <sys_update_name>sys_documentation_x_845656_event_mng_event_table_type_of_event_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-07-06 10:16:46</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
